@@ -2,6 +2,8 @@
 
 # Xynova Flex 2
 
+**Flex 2 灵巧手 · Dexterous Hand**
+
 23-DoF bionic dexterous hand — ±0.1 mm precision · 0.05 N force control · 12 kg grasp load
 
 [![Docs](https://img.shields.io/badge/Documentation-docs.xynova.com.cn-green?style=flat-square)](https://docs.xynova.com.cn/docs/flex2/)
@@ -11,54 +13,44 @@
 
 ---
 
-## 📦 Downloads
+## 📥 下载 Downloads
 
-All Flex 2 software and manuals are published on the [**Releases**](https://github.com/xynova-tech/flex2/releases) page.
-
-### 🧩 SDK
-
-**中文版**
-
-- SDK 用户手册：《Flex2 SDK 用户手册 v2.0》— 见 [Flex 2 SDK V2.0.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) 附件
-- SDK 软件：
-  - [Flex 2 SDK V2.0.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) — `Flex2_SDK_2.0.0_linux_x86_64.tar.gz` / `Flex2_SDK_2.0.0_linux_aarch64.tar.gz`
-  - [Flex 2 腕部相机 SDK V1.0.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) — `FLex2_Camera_SDKv1.0.0.tar.gz`
-
-**English**
-
-- SDK User Manual: *Flex 2 SDK User Manual v2.0* — attached to the [SDK V2.0.0 release](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0)
-- SDK software: same download links above
+所有软件与配套手册均发布在 [**Releases**](https://github.com/xynova-tech/flex2/releases) 页面。
+All software and manuals are published on the [**Releases**](https://github.com/xynova-tech/flex2/releases) page.
 
 ### 🖥️ 上位机 Studio
 
-**中文版**
+| 软件 Software | 版本 Version | 下载 Download | 使用手册 Manual |
+|---|---|---|---|
+| Flex 2 Studio 上位机软件 | v1.01.003 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) | [中文 V2.2](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) · [English V2.2](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) |
+| Flex 2 MCU 固件 Firmware | v1.01.003 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) | — |
 
-- 上位机使用说明书：《Flex 2 灵巧手上位机使用说明书 V2.2》— 见 [Studio V1.01.003](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) 附件
-- 上位机软件：
-  - [Flex 2 Studio 上位机软件 V1.01.003](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003)（含 MCU 固件 `Flex2_MCU._V1.01.003.zip`）
+### 🧩 SDK
 
-**English**
-
-- User Manual: *Flex 2 Dexterous Hand Upper Computer User Manual V2.2* — attached to the [Studio V1.01.003 release](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003)
-- Software: same download link above
+| 软件 Software | 版本 Version | 下载 Download | 用户手册 Manual |
+|---|---|---|---|
+| Flex 2 SDK — Linux x86_64 | v2.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) | [中文 v2.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) · [English v2.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) |
+| Flex 2 SDK — Linux ARM64 | v2.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) | 同上 Same |
+| 腕部相机 SDK Wrist Camera SDK | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/camera-sdk-v1.0.0) | 随包附含 Included |
 
 ### 🤖 仿真资产 Simulation Assets
 
-- 仿真资产软件 / Simulation assets：*coming soon*
-- 仿真 Demo：*coming soon*
+*敬请期待 / Coming soon — URDF / meshes / simulation demo*
 
-## 🚀 Quick Start
+---
 
-1. Go to [Releases](https://github.com/xynova-tech/flex2/releases) and download the software you need
-2. 上位机 Studio：install, connect your Flex 2 via USB/Ethernet, follow the attached manual
-3. SDK：extract the archive and follow the user manual inside
+## 🚀 快速上手 Quick Start
 
-## 📖 Documentation
+1. 进入 [Releases](https://github.com/xynova-tech/flex2/releases) 页面，选择需要的软件下载 / Go to **Releases** and pick the software you need
+2. **上位机 Studio**：安装后通过 USB / 以太网连接 Flex 2 / Install, then connect your Flex 2 via USB/Ethernet
+3. **SDK**：解压软件包，按手册操作 / Extract the archive and follow the manual
 
-- Online documentation — [docs.xynova.com.cn](https://docs.xynova.com.cn/)
-- User manuals (PDF) are attached to each release
+## 📖 文档 Documentation
 
-## 📬 Support
+- 在线文档 / Online documentation — [docs.xynova.com.cn](https://docs.xynova.com.cn/)
+- PDF 手册见各 Release 附件 / PDF manuals are attached to each release
+
+## 📬 支持 Support
 
 - ✉️ [contact-us@xynova.tech](mailto:contact-us@xynova.tech)
 - 🌐 [www.xynova.com.cn](https://www.xynova.com.cn/)
