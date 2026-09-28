@@ -1,8 +1,8 @@
 <div align="center">
 
-# Xynova Studio
+# Xynova SDK
 
-Desktop applications for device management, data visualization, and firmware upgrade of Xynova devices.
+SDKs for Xynova dexterous hands and arm-hand integrated systems.
 
 [![Docs](https://img.shields.io/badge/Documentation-docs.xynova.com.cn-green?style=flat-square)](https://docs.xynova.com.cn/)
 [![Email](https://img.shields.io/badge/Contact-contact--us@xynova.tech-orange?style=flat-square)](mailto:contact-us@xynova.tech)
@@ -13,19 +13,20 @@ Desktop applications for device management, data visualization, and firmware upg
 
 ## 📦 Downloads
 
-All software packages are published on the [**Releases**](https://github.com/xynova-tech/xynova-studio/releases) page.
+All SDK packages are published on the [**Releases**](https://github.com/xynova-tech/xynova-sdk/releases) page.
 
-| Product | Software | Version | Manual |
-|---------|----------|---------|--------|
-| **Xynova Flex 2** | Flex 2 Studio | v1.01.003 | 上位机使用说明书 V2.2 / User Manual V2.2 |
-| **Synca XFS** | Integrated Arm-Hand Software | v1.0 | 一体化臂手总成上位机使用说明书 V1.0 |
-| **Xynova Prima 1** | — | *coming soon* | — |
+### Xynova Flex 2
+
+| Package | Version | Manual |
+|---------|---------|--------|
+| Flex 2 SDK (Linux x86_64 / ARM64) | v2.0.0 | 《Flex2 SDK 用户手册 v2.0》 / User Manual v2.0 |
+| Flex 2 Wrist Camera SDK 腕部相机 SDK | v1.0.0 | included |
 
 ## 🚀 Quick Start
 
-1. Download the installer for your product from [Releases](https://github.com/xynova-tech/xynova-studio/releases)
-2. Install and connect your Xynova device via USB/Ethernet
-3. Follow the user manual attached to the release
+1. Download the SDK package for your product from [Releases](https://github.com/xynova-tech/xynova-sdk/releases)
+2. Extract the archive and follow the user manual inside
+3. For full documentation, visit [docs.xynova.com.cn](https://docs.xynova.com.cn/)
 
 ## 📖 Documentation
 
