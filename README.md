@@ -37,7 +37,7 @@ All software and manuals are published on the [**Releases**](https://github.com/
 
 | 软件 Software | 版本 Version | 下载 Download | 说明 Notes |
 |---|---|---|---|
-| 仿真资产 Simulation Assets | v1.0.0 | *待发布 / To be released* | — |
+| 仿真资产 Simulation Assets | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sim-assets-v1.0.0) | — |
 | 仿真演示 Simulation Demo | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sim-demo-v1.0.0) | MuJoCo / Isaac Sim / Isaac Lab，文档随包附含 Included |
 
 ---
