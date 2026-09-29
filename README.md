@@ -1,65 +1,36 @@
-<div align="center">
+# Flex2
 
-# Xynova Flex 2
+**Bionic Versatility, Intelligent Stability.**
 
-**Flex 2 灵巧手 · Dexterous Hand**
+Xynova Flex 2 灵巧手 — 23 自由度仿生灵巧手 · ±0.1 mm 精度 · 0.05 N 力控 · 12 kg 负载。
 
-23-DoF bionic dexterous hand — ±0.1 mm precision · 0.05 N force control · 12 kg grasp load
+## 📖 使用手册
 
-[![Docs](https://img.shields.io/badge/Documentation-docs.xynova.com.cn-green?style=flat-square)](https://docs.xynova.com.cn/docs/flex2/)
-[![Email](https://img.shields.io/badge/Contact-contact--us@xynova.tech-orange?style=flat-square)](mailto:contact-us@xynova.tech)
+| 手册 | 版本 | 说明 |
+|------|------|------|
+| [上位机使用手册（中文）](Flex2-Studio-Manual-ZH.pdf) / [English](Flex2-Studio-Manual-EN.pdf) | V2.2 | Studio 上位机软件的安装与操作指南 |
+| [SDK 使用手册（中文）](Flex2-SDK-Manual-ZH.pdf) / [English](Flex2-SDK-Manual-EN.pdf) | V2.0 | SDK 安装、接口说明与使用示例 |
 
-</div>
+> 腕部相机 SDK 手册随软件包附带。
 
----
+## 📦 下载发布物
 
-## 📥 下载 Downloads
+所有软件均发布在 [**Releases**](https://github.com/xynova-tech/Flex2/releases) 页面，按发布物分版本归档：
 
-所有软件与配套手册均发布在 [**Releases**](https://github.com/xynova-tech/flex2/releases) 页面。
-All software and manuals are published on the [**Releases**](https://github.com/xynova-tech/flex2/releases) page.
+| 发布物 | 版本 | 说明 |
+|--------|------|------|
+| [Studio 上位机](https://github.com/xynova-tech/Flex2/releases/tag/studio-v1.01.003) | v1.01.003 | Flex 2 上位机软件 |
+| [SDK](https://github.com/xynova-tech/Flex2/releases/tag/sdk-v2.0.0) | v2.0.0 | Linux x86_64 / ARM64 |
+| [腕部相机 SDK](https://github.com/xynova-tech/Flex2/releases/tag/camera-sdk-v1.0.0) | v1.0.0 | ROS 封装，可直接调用 |
+| [仿真资产](https://github.com/xynova-tech/Flex2/releases/tag/sim-assets-v1.0.0) | v1.0.0 | URDF 模型等仿真资产 |
+| [仿真演示](https://github.com/xynova-tech/Flex2/releases/tag/sim-demo-v1.0.0) | v1.0.0 | MuJoCo / Isaac Sim / Isaac Lab |
 
-### 🖥️ 上位机 Studio
+## 🚀 快速上手
 
-| 软件 Software | 版本 Version | 下载 Download | 使用手册 Manual |
-|---|---|---|---|
-| Flex 2 Studio 上位机软件 | v1.01.003 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) | [中文 V2.2](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) · [English V2.2](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) |
-| Flex 2 MCU 固件 Firmware | v1.01.003 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/studio-v1.01.003) | — |
+- **Studio**：安装后通过 USB / 以太网连接 Flex 2
+- **SDK**：解压软件包，按手册操作
 
-### 🧩 SDK
+## 📬 联系我们
 
-| 软件 Software | 版本 Version | 下载 Download | 用户手册 Manual |
-|---|---|---|---|
-| Flex 2 SDK — Linux x86_64 | v2.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) | [中文 v2.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) · [English v2.0](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) |
-| Flex 2 SDK — Linux ARM64 | v2.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sdk-v2.0.0) | 同上 Same |
-| 腕部相机 SDK Wrist Camera SDK | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/camera-sdk-v1.0.0) | 随包附含 Included |
-
-### 🤖 仿真资产 Simulation Assets
-
-| 软件 Software | 版本 Version | 下载 Download | 说明 Notes |
-|---|---|---|---|
-| 仿真资产 Simulation Assets | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sim-assets-v1.0.0) | — |
-| 仿真演示 Simulation Demo | v1.0.0 | [⬇ 下载 Download](https://github.com/xynova-tech/flex2/releases/tag/sim-demo-v1.0.0) | MuJoCo / Isaac Sim / Isaac Lab，文档随包附含 Included |
-
----
-
-## 🚀 快速上手 Quick Start
-
-1. 进入 [Releases](https://github.com/xynova-tech/flex2/releases) 页面，选择需要的软件下载 / Go to **Releases** and pick the software you need
-2. **上位机 Studio**：安装后通过 USB / 以太网连接 Flex 2 / Install, then connect your Flex 2 via USB/Ethernet
-3. **SDK**：解压软件包，按手册操作 / Extract the archive and follow the manual
-
-## 📖 文档 Documentation
-
-- 在线文档 / Online documentation — [docs.xynova.com.cn](https://docs.xynova.com.cn/)
-- PDF 手册见各 Release 附件 / PDF manuals are attached to each release
-
-## 📬 支持 Support
-
-- ✉️ [contact-us@xynova.tech](mailto:contact-us@xynova.tech)
-- 🌐 [www.xynova.com.cn](https://www.xynova.com.cn/)
-
-<div align="center">
-
-*Building the future of dexterous manipulation.*
-
-</div>
+- 🌐 官网：[www.xynova.com.cn](https://www.xynova.com.cn/)
+- ✉️ 技术支持：[contact-us@xynova.tech](mailto:contact-us@xynova.tech)
