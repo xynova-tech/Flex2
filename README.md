@@ -4,12 +4,9 @@
 
 Xynova Flex 2 灵巧手 — 23 自由度仿生灵巧手 · ±0.1 mm 精度 · 0.05 N 力控 · 12 kg 负载。
 
-## 📖 使用手册
+## 📖 技术文档
 
-| 手册 | 版本 | 说明 |
-|------|------|------|
-| [上位机使用手册（中文）](Flex2-Studio-Manual-ZH.pdf) / [English](Flex2-Studio-Manual-EN.pdf) | V2.2 | Studio 上位机软件的安装与操作指南 |
-| [SDK 使用手册（中文）](Flex2-SDK-Manual-ZH.pdf) / [English](Flex2-SDK-Manual-EN.pdf) | V2.0 | SDK 安装、接口说明与使用示例 |
+**→ 前往文档中心：<https://docs.xynova.com.cn/>**
 
 > 腕部相机 SDK 手册随软件包附带。
 
