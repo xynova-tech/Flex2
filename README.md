@@ -13,7 +13,7 @@ All software is available on the [**Releases**](https://github.com/xynova-tech/F
 | Release | Version | Description |
 |--------|------|------|
 | [Flex 2 MCU](https://github.com/xynova-tech/Flex2/releases/tag/MCU-V1.01.003) | V 1.01.003 | Flex 2 MCU |
-| [Flex 2 SDK](https://github.com/xynova-tech/Flex2/releases/tag/sdk-v2.0.0) | V 2.0.0 | Linux x86_64/ARM64 |
+| [Flex 2 SDK](https://github.com/xynova-tech/Flex2/releases/tag/SDK-V2.2.0) | V 2.2.0 | Linux x86_64/ARM64 |
 | [Wrist Camera SDK](https://github.com/xynova-tech/Flex2/releases/tag/camera-sdk-v1.0.0) | V 1.0.0 | ROS package, ready to use |
 | [Simulation Assets (URDF)](https://github.com/xynova-tech/Flex2/releases/tag/sim-assets-v1.0.0) | V 1.0.0 | Simulation assets, including URDF models |
 | [Simulation Demos](https://github.com/xynova-tech/Flex2/releases/tag/sim-demo-v1.0.0) | V 1.0.0 | MuJoCo/Isaac Lab |
